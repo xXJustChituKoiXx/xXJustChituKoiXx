@@ -1,0 +1,256 @@
+<svg fill="none" viewBox="0 0 900 680" width="900" height="680" xmlns="http://w3.org">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://w3.org">
+      <style>
+        .browser {
+          background: #c0c0c0;
+          border: 3px outset #ffffff;
+          font-family: 'Courier New', Courier, monospace;
+          color: #00ffcc;
+          box-sizing: border-box;
+        }
+        /* Barra superior de Internet Explorer / Netscape */
+        .top-bar {
+          background: linear-gradient(90deg, #000080, #ff00cc);
+          color: #fff;
+          font-weight: bold;
+          padding: 4px 8px;
+          display: flex;
+          justify-content: space-between;
+          font-size: 13px;
+        }
+        .url-bar {
+          background: #d4d0c8;
+          border-bottom: 2px solid #808080;
+          padding: 4px 8px;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          color: #000;
+          font-size: 12px;
+        }
+        .url-input {
+          background: #fff;
+          border: 2px inset #808080;
+          padding: 2px 8px;
+          flex-grow: 1;
+          color: #000080;
+          font-weight: bold;
+        }
+        /* Fondo de la página web (Cyber Grid) */
+        .webpage {
+          background-color: #07000f;
+          background-image: 
+            linear-gradient(rgba(255, 0, 204, 0.15) 1px, transparent 1px),
+            linear-gradient(90deg, rgba(0, 255, 204, 0.15) 1px, transparent 1px);
+          background-size: 20px 20px;
+          padding: 14px;
+          border: 2px inset #404040;
+        }
+        /* Banner principal */
+        .hero {
+          background: linear-gradient(135deg, #1a0033 0%, #090014 100%);
+          border: 2px outset #ff00cc;
+          padding: 12px;
+          text-align: center;
+          margin-bottom: 12px;
+          box-shadow: 4px 4px 0px #ff00cc;
+        }
+        .hero h1 {
+          margin: 0;
+          font-size: 26px;
+          color: #ff66ff;
+          text-shadow: 2px 2px 0px #7b00ff, 0 0 10px #ff00cc;
+          letter-spacing: 2px;
+        }
+        .marquee-fake {
+          background: #000;
+          border: 1px solid #39ff14;
+          color: #39ff14;
+          font-size: 12px;
+          padding: 3px;
+          margin-top: 8px;
+        }
+        /* Layout de 2 columnas (Sidebar + Main) */
+        .grid-layout {
+          display: flex;
+          gap: 12px;
+        }
+        .sidebar {
+          width: 240px;
+          display: flex;
+          flex-direction: column;
+          gap: 10px;
+        }
+        .main-col {
+          flex-grow: 1;
+          display: flex;
+          flex-direction: column;
+          gap: 10px;
+        }
+        /* Cajas estilo tabla web 2000 */
+        .box {
+          background: #0d001a;
+          border: 2px outset #7b00ff;
+          padding: 8px;
+        }
+        .box-title {
+          background: #7b00ff;
+          color: #fff;
+          font-weight: bold;
+          font-size: 12px;
+          padding: 3px 6px;
+          margin: -8px -8px 8px -8px;
+        }
+        .nav-item {
+          background: #1a0033;
+          border: 1px solid #00ffcc;
+          padding: 4px 6px;
+          margin-bottom: 5px;
+          font-size: 12px;
+          color: #00ffcc;
+        }
+        .stat-line {
+          font-size: 12px;
+          margin-bottom: 4px;
+          color: #e0e0ff;
+        }
+        .bar-bg {
+          background: #000;
+          border: 1px solid #555;
+          height: 10px;
+          margin-bottom: 6px;
+        }
+        .bar-fill { height: 100%; }
+        .quote {
+          font-size: 12px;
+          font-style: italic;
+          color: #ff99ff;
+          line-height: 1.4;
+          background: #140028;
+          padding: 8px;
+          border-left: 3px solid #39ff14;
+        }
+        .badges-row {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 6px;
+          justify-content: center;
+          margin-top: 10px;
+        }
+        .mini-88x31 {
+          border: 1px outset #fff;
+          padding: 3px 6px;
+          font-size: 10px;
+          font-weight: bold;
+          background: #222;
+          color: #fff;
+        }
+      </style>
+
+      <div class="browser">
+        <!-- Barra de ventana -->
+        <div class="top-bar">
+          <span>🌐 xXJustChituKoiXx's CyberPortal — Microsoft Internet Explorer</span>
+          <span>[ _ ] [ □ ] [ X ]</span>
+        </div>
+        <!-- Barra de direcciones -->
+        <div class="url-bar">
+          <span><b>Address:</b></span>
+          <div class="url-input">http://geocities.com</div>
+          <span style="border:1px outset #fff; padding:1px 6px; background:#c0c0c0;">Go</span>
+        </div>
+
+        <!-- Cuerpo de la web -->
+        <div class="webpage">
+          <!-- Cabecera -->
+          <div class="hero">
+            <h1>★·.·´¯`·.·★ xXJustChituKoiXx ★·.·´¯`·.·★</h1>
+            <div class="marquee-fake">
+              &gt;&gt;&gt; WELCOME TO MY CYBERSPACE // ESCOM - IPN // STATUS: FOCUSING 🎯 // LISTENING TO: NINAJIRACHI - GIRL EDM &lt;&lt;&lt;
+            </div>
+          </div>
+
+          <!-- Columnas -->
+          <div class="grid-layout">
+            <!-- Columna Izquierda (Menú + Winamp) -->
+            <div class="sidebar">
+              <div class="box">
+                <div class="box-title">📂 NAVIGATION // LINKS</div>
+                <div class="nav-item">▶ IG: @JustChitu</div>
+                <div class="nav-item">▶ YT: justchitu</div>
+                <div class="nav-item">▶ DC: justchitu</div>
+                <div class="nav-item">▶ REPOS: 7 Public</div>
+                <div class="nav-item">▶ UNI: ESCOM - IPN</div>
+              </div>
+
+              <div class="box" style="border-color: #39ff14;">
+                <div class="box-title" style="background:#006600; color:#39ff14;">🎵 WINAMP PLAYER</div>
+                <div style="font-size:11px; color:#39ff14; background:#000; padding:5px; border:1px inset #333;">
+                  <b>TRACK:</b> Ninajirachi - Girl EDM<br/>
+                  <b>BITRATE:</b> 128 kbps | 44 kHz<br/>
+                  <b>TIME:</b> 02:02 / 03:15<br/>
+                  <span style="color:#ff00cc;">[|&lt;] [&gt;] [||] [■] [&gt;|]</span>
+                </div>
+              </div>
+
+              <div class="box">
+                <div class="box-title">👾 WEBMASTER INFO</div>
+                <div style="font-size:11px; color:#ccc; line-height:1.4;">
+                  <b>Alias:</b> JustChitu<br/>
+                  <b>Role:</b> SysEng Student<br/>
+                  <b>Fuel:</b> Caffeine &amp; Hyperpop<br/>
+                  <b>Mood:</b> Coding @ 2AM
+                </div>
+              </div>
+            </div>
+
+            <!-- Columna Derecha (Contenido Principal) -->
+            <div class="main-col">
+              <div class="box">
+                <div class="box-title">📢 ABOUT ME // MANIFESTO.TXT</div>
+                <div class="quote">
+                  "Soy la evolución, la revolución, The Big-Big Boss (Oh, oh) El mejor de todos los tiempos, ya tú lo sabes (Eh, eh) Ando con el Musicólogo montando presión..." — <b>Daddy Yankee</b>
+                </div>
+                <p style="font-size:12px; color:#00ffcc; margin:8px 0 0 0; line-height:1.4;">
+                  ¡Hola! Bienvenido a mi rincón en la red. Estudio Ingeniería en Sistemas en <b>ESCOM (IPN)</b> y me la paso construyendo proyectos, experimentando con código a bajo nivel y escuchando electrónica/hyperpop.
+                </p>
+              </div>
+
+              <div class="box">
+                <div class="box-title">💻 SYSTEM SPECS &amp; SKILL TREE</div>
+                
+                <div class="stat-line"><b>[ACTIVE] C</b> — Sistemas &amp; Estructuras</div>
+                <div class="bar-bg"><div class="bar-fill" style="width:85%; background:#00ccff;"></div></div>
+
+                <div class="stat-line"><b>[ACTIVE] Python</b> — Scripting &amp; Lógica</div>
+                <div class="bar-bg"><div class="bar-fill" style="width:80%; background:#ffdd54;"></div></div>
+
+                <div class="stat-line"><b>[ACTIVE] JavaScript</b> — Web &amp; Frontend</div>
+                <div class="bar-bg"><div class="bar-fill" style="width:75%; background:#39ff14;"></div></div>
+
+                <div style="font-size:11px; color:#ff66ff; margin-top:8px; border-top:1px dashed #7b00ff; padding-top:6px;">
+                  <b>// DOWNLOADING NEXT MODULES [15%]:</b><br/>
+                  ⏳ <b>Rust</b> • ⏳ <b>C++</b> • ⏳ <b>Assembler</b>
+                </div>
+              </div>
+
+              <!-- Botones 88x31 estilo 2000 -->
+              <div class="badges-row">
+                <span class="mini-88x31" style="background:#000080;">MADE WITH NOTEPAD</span>
+                <span class="mini-88x31" style="background:#800080; color:#00ffcc;">HTML 4.01 VALID</span>
+                <span class="mini-88x31" style="background:#006600; color:#39ff14;">ESCOM IPN 2026</span>
+                <span class="mini-88x31" style="background:#ff00cc; color:#000;">Y2K RAVE READY</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Footer -->
+          <div style="text-align:center; font-size:11px; color:#888; margin-top:12px; border-top:1px solid #333; padding-top:6px;">
+            Best viewed with Internet Explorer 5.0 at 1024x768 • © 2000-2026 xXJustChituKoiXx
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
