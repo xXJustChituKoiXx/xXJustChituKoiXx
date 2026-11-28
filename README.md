@@ -5,7 +5,23 @@
 
 | :: [ xXJustChituKoiXx // 2007_VLOG.EXE ] :: | :: [ WINAMP_2.95 // FULL_SKIN_DECK ] :: |
 | :---: | :--- |
-| <img src="https://github.com/xXJustChituKoiXx.png" width="165" alt="xXJustChituKoiXx pfp" /><br/><br/><b>:: HANDLE ::</b><br/><code>xXJustChituKoiXx</code><br/><br/><b>:: SYSTEM_SPEC ::</b><br/><code>Windows XP SP2 // IE 6.0</code><br/><br/><b>:: STATUS ::</b><br/><code>ESCOM // ONLINE :P</code><br/><br/><b>:: MOOD ::</b><br/><code>Boosted Bass &amp; Pointers XD</code> | <pre><code>[=== WINAMP v2.95 ================ [_][□][X] ]<br/>[ 02:14 ]  |||ı||ı|||ı||ı|  192 kbps  44 kHz  STEREO<br/>TRACK: &gt;&gt; 01. Dejala - Duende &amp; Nigga (03:48) &lt;&lt;<br/>VOL: [========|==] 85%    BAL: [===|===] CENTER<br/>[ |&lt;&lt; ] [ &gt; PLAY ] [ || ] [ ■ ] [ &gt;&gt;| ] [ ^ EJECT ]<br/>[ SHUFFLE: ON ]  [ REPEAT: ALL ]  [ EQ: BASS_BOOST ]<br/><br/>:: PLAYLIST_EDITOR (RANDOM_ORDER.M3U) ::<br/>&gt; 01. Dejala - Duende &amp; Nigga ................ [03:48]<br/>  02. Year Of the Cup - Porter Robinson ...... [04:22]<br/>  03. Intentalo - 3Ball MTY &amp; America Sierra . [03:12]<br/>  04. iPodTouch - Ninajirachi ................ [02:54]<br/>  05. Love you Back - Madeon ................. [03:35]<br/>  06. Perdoname - La Factoria ................ [04:01]<br/>  07. WannaCry - Ninajirachi &amp; Porter Robinson [03:19]<br/>  08. Besos al aire - 3Ball MTY &amp; America .... [03:28]<br/>  09. All I Am - Ninajirachi ................. [03:07]</code></pre><br/><a href="https://github.com/xXJustChituKoiXx?tab=repositories"><kbd>[ REPOSITORIES ]</kbd></a> <a href="https://github.com/xXJustChituKoiXx?tab=stars"><kbd>[ FAVORITES ]</kbd></a> <a href="https://github.com/xXJustChituKoiXx"><kbd>[ xXJustChituKoiXx ]</kbd></a> |
+| <img src="https://github.com/xXJustChituKoiXx.png" width="160" alt="xXJustChituKoiXx pfp" /><br/><br/><b>:: HANDLE ::</b><br/><code>xXJustChituKoiXx</code><br/><br/><b>:: SYSTEM_SPEC ::</b><br/><code>Windows XP SP2 // IE 6.0</code><br/><br/><b>:: STATUS ::</b><br/><code>ESCOM // ONLINE :P</code><br/><br/><b>:: MOOD ::</b><br/><code>Boosted Bass &amp; Pointers XD</code> | <pre><code>[=== WINAMP v2.95 ========= [_][□][X]]
+[02:14] |||ı||ı||| 192kbps 44kHz STEREO
+TRACK: &gt;&gt; 01. Dejala - Duende &amp; Nigga &lt;&lt;
+VOL: [======|==] 85%   BAL: [===|===] C
+[|&lt;&lt;] [&gt; PLAY] [||] [■] [&gt;&gt;|] [^ EJECT]
+[SHUFFLE: ON] [REPEAT: ALL] [EQ: BASS]
+
+:: PLAYLIST_EDITOR (RANDOM_ORDER.M3U) ::
+&gt; 01. Dejala - Duende &amp; Nigga [03:48]
+  02. Year Of the Cup - Porter Robinson [04:22]
+  03. Intentalo - 3Ball MTY &amp; America Sierra [03:12]
+  04. iPodTouch - Ninajirachi [02:54]
+  05. Love you Back - Madeon [03:35]
+  06. Perdoname - La Factoria [04:01]
+  07. WannaCry - Ninajirachi &amp; Porter R. [03:19]
+  08. Besos al aire - 3Ball MTY &amp; America [03:28]
+  09. All I Am - Ninajirachi [03:07]</code></pre><br/><a href="https://github.com/xXJustChituKoiXx?tab=repositories"><kbd>[ REPOSITORIES ]</kbd></a> <a href="https://github.com/xXJustChituKoiXx?tab=stars"><kbd>[ FAVORITES ]</kbd></a> <a href="https://github.com/xXJustChituKoiXx"><kbd>[ xXJustChituKoiXx ]</kbd></a> |
 
 <br/>
 
