@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=21&pause=950&color=FF007F&center=true&vCenter=true&width=750&lines=xXJustChituKoiXx+en+todos+lados+%3AP;Data+Science+ESCOM+%2F%2F+SMILE!+%3AD;I+WANNA+CRY+:'(;Nyan+Cat+overdrive+XD+%2F%2F+xXJustChituKoiXx;It+sounds+like+high+school%2C+front+gate%2C+smoke+in+my+face;It+sounds+like+dyed%2C+frayed%2C+high-waist%2C+bought+at+Supre;It+sounds+like+lovin'+you+is+easy+but+they+boosted+the+bass" alt="Typing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=21&pause=950&color=FF007F&center=true&vCenter=true&width=750&lines=xXJustChituKoiXx+en+todos+lados+%3AP;Data+Science+ESCOM+%2F%2F+SMILE!+%3AD;I+WANNA+CRY+:'(;It+sounds+like+high+school%2C+front+gate%2C+smoke+in+my+face;It+sounds+like+dyed%2C+frayed%2C+high-waist%2C+bought+at+Supre;It+sounds+like+lovin'+you+is+easy+but+they+boosted+the+bass" alt="Typing Header" />
 
 <br/>
 
 | :: [ xXJustChituKoiXx // 2007_VLOG.EXE ] :: | :: [ README.TXT // ABOUT_ME ] :: |
 | :---: | :--- |
-| <img src="https://github.com/xXJustChituKoiXx.png" width="160" alt="xXJustChituKoiXx pfp" /><br/><br/><b>:: HANDLE ::</b><br/><code>xXJustChituKoiXx</code><br/><br/><b>:: SYSTEM_SPEC ::</b><br/><code>Windows XP SP2 // IE 6.0</code><br/><code>Pentium 4 EE 3.4GHz // 2GB DDR400 // Radeon 9800 XT</code><br/><br/><b>:: STATUS ::</b><br/><code>ESCOM // ONLINE :P</code><br/><br/><b>:: MOOD ::</b><br/><code>Swag Like Ohio</code><br/><br/><a href="https://github.com/xXJustChituKoiXx?tab=repositories"><kbd>[ REPOS ]</kbd></a> <a href="https://github.com/xXJustChituKoiXx?tab=stars"><kbd>[ STARS ]</kbd></a> <a href="PON_AQUI_TU_LINK_SOCIAL"><kbd>[ SOCIAL / LINKS ]</kbd></a> | Yo what's up?, soy <b>Ricardo</b>, <b>Chitu</b> pa' los compas, fuck it, ya firmala Mosso. Estudiante de dia, Mayate de noche :P |
+| <img src="https://github.com/xXJustChituKoiXx.png" width="160" alt="xXJustChituKoiXx pfp" /><br/><br/><b>:: HANDLE ::</b><br/><code>xXJustChituKoiXx</code><br/><br/><b>:: SYSTEM_SPEC ::</b><br/><code>Windows XP SP2 // IE 6.0</code><br/><code>Pentium 4 EE 3.4GHz // 2GB DDR400 // Radeon 9800 XT</code><br/><br/><b>:: STATUS ::</b><br/><code>ESCOM // ONLINE :P</code><br/><br/><b>:: MOOD ::</b><br/><code>Swag Like Ohio</code><br/><br/><a href="https://github.com/xXJustChituKoiXx?tab=repositories"><kbd>[ REPOS ]</kbd></a> <a href="https://github.com/xXJustChituKoiXx?tab=stars"><kbd>[ STARS ]</kbd></a> <a href="https://www.instagram.com/justchitu/?hl=es-la"><kbd>[ IG ]</kbd></a> <a href="https://www.youtube.com/@JustChitu"><kbd>[ YT ]</kbd></a> | Yo what's up?, soy <b>Ricardo</b>, <b>Chitu</b> pa' los compas, fuck it, ya firmala Mosso. Estudiante de dia, Mayate de noche :P |
 
 <br/>
 
@@ -26,6 +26,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=xXJustChituKoiXx-2007vlog&label=VISITS&color=ff007f&style=flat-square&base=0" alt="Visits" />
+<img src="https://komarev.com/ghpvc/?username=xXJustChituKoiXx-vlog2007-v3&label=VISITS&color=ff007f&style=flat-square&base=0" alt="Visits" />
 
 </div>
