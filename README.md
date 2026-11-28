@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=21&pause=950&color=FF007F&center=true&vCenter=true&width=750&lines=xXJustChituKoiXx+en+todos+lados+%3AP;Data+Science+ESCOM+%2F%2F+SMILE!+%3AD;I+WANNA+CRY+:'(+%2F%2F+Pelusa+Caligari+W2M+mode;Nyan+Cat+overdrive+XD+%2F%2F+xXJustChituKoiXx;It+sounds+like+high+school%2C+front+gate%2C+smoke+in+my+face;It+sounds+like+dyed%2C+frayed%2C+high-waist%2C+bought+at+Supre;It+sounds+like+lovin'+you+is+easy+but+they+boosted+the+bass" alt="Typing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=21&pause=950&color=FF007F&center=true&vCenter=true&width=750&lines=xXJustChituKoiXx+en+todos+lados+%3AP;Data+Science+ESCOM+%2F%2F+SMILE!+%3AD;I+WANNA+CRY+:'(;Nyan+Cat+overdrive+XD+%2F%2F+xXJustChituKoiXx;It+sounds+like+high+school%2C+front+gate%2C+smoke+in+my+face;It+sounds+like+dyed%2C+frayed%2C+high-waist%2C+bought+at+Supre;It+sounds+like+lovin'+you+is+easy+but+they+boosted+the+bass" alt="Typing Header" />
 
 <br/>
 
@@ -16,11 +16,6 @@
 
 <br/>
 
-| :: [ 2000s_ARCHIVE // MEMES &amp; LORE ] :: |
-| :--- |
-| <div align="center"><img src="https://web.archive.org/web/20091027065848/http://geocities.com/hk/nyancat.gif" width="52" alt="Nyan Cat" /> &nbsp; <b>[ SYSTEM_NOSTALGIA.LOG // xXJustChituKoiXx ]</b></div><br/><ul><li><b>Nyan Cat:</b> Loop infinito de Pop-Tart espacial a 8-bits mientras compila el codigo a las 3 AM :P</li><li><b>Drake &amp; Josh:</b> <i>"Oye tranquilo viejo"</i>, la Gamesphere es esferica y obviamente todo es culpa de <i>"Megan..."</i> XD</li><li><b>Pelusa Caligari / W2M:</b> Director tecnico de jerarquia, mentalidad de vestidor y pura mistica callejera del futbol mexicano.</li><li><b>Need for Speed: Most Wanted (2005):</b> El BMW M3 GTR plata con franjas azules de Razor, filtro sepia al maximo y escapando de Cross en Nivel 5.</li><li><b>GTA San Andreas:</b> Misterios de Loquendo en Mount Chiliad, Pie Grande en Back o' Beyond, el coche fantasma y siguiendo el maldito tren, CJ.</li><li><b>Windows XP &amp; Internet Explorer:</b> Colina verde Bliss, solitario cascada al ganar, barras de herramientas sospechosas y IE tardando 3 dias habiles en abrir una pestana.</li></ul> |
-
-<br/>
 
 | :: [ TECH_STACK // xXJustChituKoiXx ] :: |
 | :---: |
