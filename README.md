@@ -6,11 +6,11 @@
 
 | :: [ xXJustChituKoiXx // 2007_VLOG.EXE ] :: | :: [ README.TXT // ABOUT_ME ] :: |
 | :---: | :--- |
-| <img src="https://github.com/xXJustChituKoiXx.png" width="160" alt="xXJustChituKoiXx pfp" /><br/><br/><b>:: HANDLE ::</b><br/><code>xXJustChituKoiXx</code><br/><br/><b>:: SYSTEM_SPEC ::</b><br/><code>Windows XP SP2 // IE 6.0</code><br/><code>Pentium 4 EE 3.4GHz // 2GB DDR400 // Radeon 9800 XT</code><br/><br/><b>:: STATUS ::</b><br/><code>ESCOM // ONLINE :P</code><br/><br/><b>:: MOOD ::</b><br/><code>Swag Like Ohio</code><br/><br/><a href="https://github.com/xXJustChituKoiXx?tab=repositories"><kbd>[ REPOS ]</kbd></a> <a href="https://github.com/xXJustChituKoiXx?tab=stars"><kbd>[ STARS ]</kbd></a> <a href="https://github.com/xXJustChituKoiXx"><kbd>[ xXJustChituKoiXx ]</kbd></a> | Yo what's up?, soy <b>Ricardo</b>, <b>Chitu</b> pa' los compas, fuck it, ya firmala Mosso. Estudiante de dia, Mayate de noche :P |
+| <img src="https://github.com/xXJustChituKoiXx.png" width="160" alt="xXJustChituKoiXx pfp" /><br/><br/><b>:: HANDLE ::</b><br/><code>xXJustChituKoiXx</code><br/><br/><b>:: SYSTEM_SPEC ::</b><br/><code>Windows XP SP2 // IE 6.0</code><br/><code>Pentium 4 EE 3.4GHz // 2GB DDR400 // Radeon 9800 XT</code><br/><br/><b>:: STATUS ::</b><br/><code>ESCOM // ONLINE :P</code><br/><br/><b>:: MOOD ::</b><br/><code>Swag Like Ohio</code><br/><br/><a href="https://github.com/xXJustChituKoiXx?tab=repositories"><kbd>[ REPOS ]</kbd></a> <a href="https://github.com/xXJustChituKoiXx?tab=stars"><kbd>[ STARS ]</kbd></a> <a href="PON_AQUI_TU_LINK_SOCIAL"><kbd>[ SOCIAL / LINKS ]</kbd></a> | Yo what's up?, soy <b>Ricardo</b>, <b>Chitu</b> pa' los compas, fuck it, ya firmala Mosso. Estudiante de dia, Mayate de noche :P |
 
 <br/>
 
-<img src="https://web.archive.org/web/20091027065848/http://geocities.com/hk/nyancat.gif" width="520" alt="nyan cat" />
+<img src="https://upload.wikimedia.org/wikipedia/en/e/ed/Nyan_cat_250px_frame.PNG" width="420" alt="nyan cat" />
 
 <br/><br/>
 
