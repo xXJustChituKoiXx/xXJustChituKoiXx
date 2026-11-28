@@ -5,23 +5,7 @@
 
 | :: [ xXJustChituKoiXx // 2007_VLOG.EXE ] :: | :: [ WINAMP_2.95 // FULL_SKIN_DECK ] :: |
 | :---: | :--- |
-| <img src="https://github.com/xXJustChituKoiXx.png" width="160" alt="xXJustChituKoiXx pfp" /><br/><br/><b>:: HANDLE ::</b><br/><code>xXJustChituKoiXx</code><br/><br/><b>:: SYSTEM_SPEC ::</b><br/><code>Windows XP SP2 // IE 6.0</code><br/><br/><b>:: STATUS ::</b><br/><code>ESCOM // ONLINE :P</code><br/><br/><b>:: MOOD ::</b><br/><code>Boosted Bass &amp; Pointers XD</code> | <pre><code>[=== WINAMP v2.95 ========= [_][□][X]]
-[02:14] |||ı||ı||| 192kbps 44kHz STEREO
-TRACK: &gt;&gt; 01. Dejala - Duende &amp; Nigga &lt;&lt;
-VOL: [======|==] 85%   BAL: [===|===] C
-[|&lt;&lt;] [&gt; PLAY] [||] [■] [&gt;&gt;|] [^ EJECT]
-[SHUFFLE: ON] [REPEAT: ALL] [EQ: BASS]
-
-:: PLAYLIST_EDITOR (RANDOM_ORDER.M3U) ::
-&gt; 01. Dejala - Duende &amp; Nigga [03:48]
-  02. Year Of the Cup - Porter Robinson [04:22]
-  03. Intentalo - 3Ball MTY &amp; America Sierra [03:12]
-  04. iPodTouch - Ninajirachi [02:54]
-  05. Love you Back - Madeon [03:35]
-  06. Perdoname - La Factoria [04:01]
-  07. WannaCry - Ninajirachi &amp; Porter R. [03:19]
-  08. Besos al aire - 3Ball MTY &amp; America [03:28]
-  09. All I Am - Ninajirachi [03:07]</code></pre><br/><a href="https://github.com/xXJustChituKoiXx?tab=repositories"><kbd>[ REPOSITORIES ]</kbd></a> <a href="https://github.com/xXJustChituKoiXx?tab=stars"><kbd>[ FAVORITES ]</kbd></a> <a href="https://github.com/xXJustChituKoiXx"><kbd>[ xXJustChituKoiXx ]</kbd></a> |
+| <img src="https://github.com/xXJustChituKoiXx.png" width="160" alt="xXJustChituKoiXx pfp" /><br/><br/><b>:: HANDLE ::</b><br/><code>xXJustChituKoiXx</code><br/><br/><b>:: SYSTEM_SPEC ::</b><br/><code>Windows XP SP2 // IE 6.0</code><br/><br/><b>:: STATUS ::</b><br/><code>ESCOM // ONLINE :P</code><br/><br/><b>:: MOOD ::</b><br/><code>Boosted Bass &amp; Pointers XD</code><br/><br/><a href="https://github.com/xXJustChituKoiXx?tab=repositories"><kbd>[ REPOS ]</kbd></a> <a href="https://github.com/xXJustChituKoiXx?tab=stars"><kbd>[ STARS ]</kbd></a> <a href="https://github.com/xXJustChituKoiXx"><kbd>[ xXJustChituKoiXx ]</kbd></a> | <b>WINAMP v2.95 // STEREO // SHUFFLE: ON</b><br/><code>[02:14]</code> <code>|||ı||ı|||</code> <code>192kbps</code> <code>44kHz</code><br/><code>TRACK: &gt;&gt; 01. Dejala - Duende &amp; Nigga &lt;&lt;</code><br/><code>VOL: [======|==] 85%</code> <code>BAL: [===|===] C</code><br/><code>[|&lt;&lt;] [&gt; PLAY] [||] [■] [&gt;&gt;|] [^ EJECT]</code><br/><code>[SHUFFLE: ON] [REPEAT: ALL] [EQ: BASS]</code><br/><br/><b>:: PLAYLIST (RANDOM_ORDER.M3U) ::</b><br/><code>&gt; 01. Dejala - Duende &amp; Nigga [03:48]</code><br/><code>&nbsp; 02. Year Of the Cup - Porter Robinson [04:22]</code><br/><code>&nbsp; 03. Intentalo - 3Ball MTY &amp; America Sierra [03:12]</code><br/><code>&nbsp; 04. iPodTouch - Ninajirachi [02:54]</code><br/><code>&nbsp; 05. Love you Back - Madeon [03:35]</code><br/><code>&nbsp; 06. Perdoname - La Factoria [04:01]</code><br/><code>&nbsp; 07. WannaCry - Ninajirachi &amp; Porter R. [03:19]</code><br/><code>&nbsp; 08. Besos al aire - 3Ball MTY &amp; America [03:28]</code><br/><code>&nbsp; 09. All I Am - Ninajirachi [03:07]</code> |
 
 <br/>
 
@@ -30,7 +14,6 @@ VOL: [======|==] 85%   BAL: [===|===] C
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXJustChituKoiXx&theme=radical&background=0D1117&border=00FFFF&stroke=FF007F&ring=FF007F&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXJustChituKoiXx&layout=compact&bg_color=0d1117&title_color=00ffff&text_color=ffffff&border_color=ff007f" alt="Top Langs" /> |
 
 <br/>
-
 
 | :: [ TECH_STACK // xXJustChituKoiXx ] :: |
 | :---: |
